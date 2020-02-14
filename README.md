@@ -1,3 +1,12 @@
+# Django Blog Mini-Project
+
+A simple blog app written using Django.
+
+---------------------------------------
+[![Build Status](https://travis-ci.org/GannaSachkova/django-blog.svg?branch=master)](https://travis-ci.org/GannaSachkova/django-blog)
+
+
+
 <img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
 
 Welcome GannaSachkova,
